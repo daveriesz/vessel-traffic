@@ -60,7 +60,7 @@
     "@arcgis/map-components": "^5.0.13",
     "@types/react": "^19.0.0",
     "@types/react-dom": "^19.0.0",
-    "axios": "^1.7.2",
+    "axios": "^1.15.2",
     "date-fns": "^2.16.1",
     "helper-toolkit-ts": "^1.1.14",
     "react": "^19.0.0",
